@@ -32,9 +32,9 @@ var pacientesDental=[
 
     //Primera y última atención
 
-    document.write(`<h4>RADIOLOGÍA</h4>`+
-    "Primera atención: "+ pacientesradio[0].Paciente +" - "+"RUT: "+pacientesradio[0].Rut+" - "+ pacientesradio[0].Prevision+" | "+
-    "Última atención: "+ pacientesradio[4].Paciente +" - "+"RUT: "+pacientesradio[4].Rut+" - "+ pacientesradio[4].Prevision)
+    document.write(`<h4>RADIOLOGÍA</h4> 
+    Primera atención: ${pacientesradio[0].Paciente} - RUT: ${pacientesradio[0].Rut} - ${pacientesradio[0].Prevision} | 
+    Última atención: ${pacientesradio[4].Paciente} - RUT: ${pacientesradio[4].Rut} -  ${pacientesradio[4].Prevision}`)
 
    document.write(`<h4>TRAUMATOLOGÍA</h4>`+
     "Primera atención: "+ pacientestrauma[0].Paciente +" - "+"RUT: "+pacientestrauma[0].Rut+" - "+ pacientestrauma[0].Prevision+" | "+
