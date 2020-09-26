@@ -16,7 +16,7 @@ var pacientestrauma=[
     {Hora:"9:30",Paciente:"RAMIRO ANDRADE", Rut:"12.221.451-K", Prevision:"FONASA"},
     {Hora:"10:00",Paciente:"CARMEN ISLA", Rut:"10.112.348-3", Prevision:"ISAPRE"},
     {Hora:"10:30",Paciente:"PABLO LOAYZA", Rut:"13.453.234-1", Prevision:"ISAPRE"},
-    {Hora:"12:00",Paciente:"SUSANA POBLETE", Rut:"14.345.656-6", Prevision:"FONASA"}],
+    {Hora:"12:00",Paciente:"SUSANA POBLETE", Rut:"14.345.656-6", Prevision:"FONASA"}];
 
 
 var pacientesDental=[
