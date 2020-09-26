@@ -12,13 +12,12 @@ var pacientesradio=[
 
 
 var pacientestrauma=[
-    {Hora:"8:00",Paciente:"Paula Sánchez", Rut:"15.554.774-5",Prevision:"FONASA"},
-    {Hora:"10:00",Paciente:"Angélica Navas", Rut:"15.444.147-9", Prevision:"ISAPRE"},
-    {Hora:"10:30",Paciente:"Ana Klapp", Rut:"17.879.423-5", Prevision:"ISAPRE"},
-    {Hora:"11:00",Paciente:"Felipe Mardones", Rut:"15.474.23-6", Prevision:"ISAPRE"},
-    {Hora:"11:30",Paciente:"Diego Marre", Rut:"16.554.741-K", Prevision:"FONASA"},
-    {Hora:"12:00",Paciente:"Cecilia Mendez", Rut:"9.747.535-8", Prevision:"ISAPRE"},
-    {Hora:"12:30",Paciente:"Marcial Suazo", Rut:"11.254.785-5", Prevision:"ISAPRE"}];
+    {Hora:"9:00",Paciente:"ANA GELLONA", Rut:"13.123.329-7",Prevision:"ISAPRE"},
+    {Hora:"9:30",Paciente:"RAMIRO ANDRADE", Rut:"12.221.451-K", Prevision:"FONASA"},
+    {Hora:"10:00",Paciente:"CARMEN ISLA", Rut:"10.112.348-3", Prevision:"ISAPRE"},
+    {Hora:"10:30",Paciente:"PABLO LOAYZA", Rut:"13.453.234-1", Prevision:"ISAPRE"},
+    {Hora:"12:00",Paciente:"SUSANA POBLETE", Rut:"14.345.656-6", Prevision:"FONASA"}],
+
 
 var pacientesDental=[
     {Hora:"8:30",Paciente:"Marcela Retamal", Rut:"11.123.425-6",Prevision:"ISAPRE"},
